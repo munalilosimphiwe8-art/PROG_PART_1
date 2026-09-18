@@ -10,7 +10,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 /**
  *
- * @author Student
+ * @author Simphiwe
  */
 public class TestQuickChatJUnitTest {
     

@@ -8,7 +8,7 @@ import java.util.*;
 
 /**
  *
- * @author Unathi
+ * @author Simphiwe
  */
 public class QuickChat {
 
